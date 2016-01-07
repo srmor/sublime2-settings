@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_large": true,
+	"theme": "Spacegray Light.sublime-theme"
+}
